@@ -37,7 +37,7 @@ def Attack_Target():
 root = tk.Tk()
 root.title("AnonymousPAK-DDoS Tool GUI")
 
-Information = Label(text = "HULK-DDoS Tool (GUI Implementation by Muneeb Khurram)", font = 'Calbri')
+Information = Label(text = "HULK-DDoS Tool", font = 'Calbri')
 Information.grid(row =1, column =1)
 Usage = Label(text = 'Usage: Enter the Website to DDoS e.g. https://example.com and Number of Threads i.e. 1024 - Infinity (On Windows 1024 Threads are Limited)')
 Usage.grid(row =2, column =1)
