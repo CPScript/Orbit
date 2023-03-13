@@ -1,5 +1,3 @@
-# Note: This Repository is just a Fancy UI Update for HULK-DoS Tool, and in no way does the author support the work, or promote it. It's only for a Joke to play with your friends, with consent or to make yourself look cool. Grow Up Lads, have a good one!
-
 # Anonymous DDoS Tool
 
 This DDoS Tool has been written by Muneeb Khurram, and this Script could only be used for Educational Purposes see License. Now added a GUI with only Two Dependancies Pyfiglet and GoLang.
