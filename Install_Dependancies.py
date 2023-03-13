@@ -1,6 +1,53 @@
 import time
 from subprocess import call
 import os
+# delete
+puk = platform()[0], platform()[1],  platform()[2], platform()[3], platform()[4], platform()[5], platform()[6]
+
+if puk == ('W', 'i', 'n', 'd', 'o', 'w', 's'):
+    delet = 'cls'
+    dr = '\\'
+else:
+    delet = 'clear'
+    dr = '/'
+
+os.system(delet)
+time.sleep(1)
+print("Downloading Dependancys in 10 seconds")
+print("Pleas wait...")
+time.sleep(10)
+os.system(delet)
+
+#loading screen
+print("Loading.")
+time.sleep(1)
+os.system(delet)
+print("Loading..")
+time.sleep(1)
+os.system(delet)
+print("Loading...")
+time.sleep(1)
+os.system(delet)
+print("Loading.")
+time.sleep(1)
+os.system(delet)
+print("Loading..")
+time.sleep(1)
+os.system(delet)
+print("Loading...")
+time.sleep(1)
+os.system(delet)
+print("Loading.")
+time.sleep(1)
+os.system(delet)
+print("Loading..")
+time.sleep(1)
+os.system(delet)
+print("Loading...")
+time.sleep(1)
+os.system(delet)
+
+
 class co:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'
@@ -11,7 +58,7 @@ class co:
     ENDC = '\033[0m'
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
-print(co.OKGREEN + '[+] Installing Dependancies for AnonymousPAK DDoS Attack' + co.ENDC)
+print(co.OKGREEN + '[+] Installing Dependancies for DDoS tool' + co.ENDC)
 print(co.OKBLUE + '[+] Download GoLang from Golang.org/dl/'+ co.ENDC)
 try:
     os.system('python3 -m pip install wheel')
