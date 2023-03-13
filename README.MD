@@ -105,8 +105,4 @@ Showing some Interfaces and their Interactive Enviorments.
 
 ![Terminal_Photos2](https://munublogs.files.wordpress.com/2020/05/screen-shot-2020-05-13-at-8.10.30-pm.png)
 
-## License
-HULK-DoS Tool’s Copyrights to their Authors as well.
-This script is only for showing off to your friends your fancy DoS UI on Command Line,
-In no way do I endorse or promote this. Please be kind to others.
-See License before using:
+
