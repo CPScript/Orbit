@@ -2,14 +2,15 @@
 
 This DDoS Tool has been made for educatinal uses only... unless, u wanna like... yk... DoS someone
 
-## Installation: (DO NOT WORRY... i made it where if you use got python it will auto install 4 U <3)
+## Installation: (DO NOT WORRY... i made it where it will auto install 4 U <3)
 
-#### - Dependancies (Read text above... unless u wanna do it manualy)
-a) pyttsx3 (Text-to-Speech) Just to make it cooler. Not Neccesary for GUI.
+### - Dependancies (Read text above... unless u wanna do it manualy)
+
+[Step 1] pyttsx3 (Text-to-Speech) Just to make it cooler. Not Neccesary for GUI.
 ```
 pip3 install pyttsx3
 ```
-b) pyfiglet (Cause its Neccesary to be Cooler)
+[Step 2] pyfiglet (Cause its Neccesary to be Cooler)
 Install Figlet in Kali Linux as some results show that pyfiglet doesnt show anything.
 ```
 sudo apt-get install figlet
@@ -17,23 +18,23 @@ sudo apt-get install figlet
 ```
 pip3 install pyfiglet
 ```
-c) colorama (Another Step towards CLI Beauty)
+[Step 3] colorama (Another Step towards CLI Beauty)
 ```
 pip3 install colorama
 ````
-d) os (Already in Python3)
+[Step 4] os (Already in Python3)
 ```
 pip3 install os
 ```
-e) socket (For an Upcomming Release)
+[Step 5] socket (For an Upcomming Release)
 ```
 pip3 install socket
 ```
-f) wheel (To make wheel of colorama) 
+[Step 6] wheel (To make wheel of colorama) 
 ```
 pip3 install wheel
 ```
-e) GoLang (Download for your OS form Golang.org/dl/) [REQUIRED]
+[Step 7] GoLang (Download for your OS form Golang.org/dl/) [REQUIRED]
 
 ### MacOS
 
