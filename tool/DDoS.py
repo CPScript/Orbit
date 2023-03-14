@@ -4,6 +4,16 @@ from colorama import Fore, Back, Style
 #print(Style.DIM + 'and in dim text')
 #print(Style.RESET_ALL)
 #print('back to normal now')
+from platform import platform
+puk = platform()[0], platform()[1],  platform()[2], platform()[3], platform()[4], platform()[5], platform()[6]
+
+if puk == ('W', 'i', 'n', 'd', 'o', 'w', 's'):
+    delet = 'cls'
+    dr = '\\'
+else:
+    delet = 'clear'
+    dr = '/'
+  
 import time
 import os
 import pyttsx3
@@ -18,8 +28,12 @@ if str(platform.system()) == 'Linux':
     os.system('figlet AnonymousPAK DDoS Attack')
 else:
     os.system('pyfiglet AnonymousPAK  DDoS Attack')
-
+  
+os.system(delet)
+print(Fore.YELLOW + '[+] We are Anonymous, We are a Legion, We do not Forgive, We do not Forget')
+time.sleep(5)
 # Logo
+os.system(delet)
 print("""                                                                                           
        .cdo,.                                                                                       
       'dKKKKkl'                                                                                     
@@ -61,15 +75,12 @@ print("""
 """)
 
 time.sleep(1)
-os.system(delet)
-print(Back.GREEN + Fore.BLACK + '[+] Orbit-DDoS Tool BETA VERSION 0.7         ')
-time.sleep(3)
-print(Fore.YELLOW + '[+] We are Anonymous, We are a Legion, We do not Forgive, We do not Forget')
+print('Your OS:'+ Fore.RED + str(platform.system())+Fore.GREEN)
+print(Fore.BLACK + '[+] Orbit-DDoS Tool BETA VERSION 0.7         ')
 print("|===========================================================================|")
 time.sleep(2)
 print("                                                                          ")
 print(Fore.GREEN + '[+] DDoS Tool starts with 1024 Baseline Threads as Default, change below is Required           ')
-print('Your OS:'+ Fore.RED + str(platform.system())+Fore.GREEN)
 try:
     threads = input('[+] ENTER THE NUMBER OF' + Fore.BLUE + ' THREADS ' + Fore.GREEN + 'FOR DDoS >>>')
     site = input(Fore.BLUE + '[+] Enter the Site that You want to' + Fore.RED + ' DDoS ' + Fore.GREEN + '>>>')
