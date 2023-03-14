@@ -131,6 +131,12 @@ Download for your OS form Golang.org/dl/
 ## Images
 
 <details>
+<summary>Video</summary>
+<br>
+Video here
+</details>
+
+<details>
 <summary>Terminal</summary>
 <br>
 image here
