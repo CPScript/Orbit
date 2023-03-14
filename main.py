@@ -17,7 +17,7 @@ else:
 os.system(delet)
 time.sleep(1)
 print("Downloading Dependancies in 10 seconds")
-print("Pleas wait...")
+print("Please wait...")
 time.sleep(10)
 
 # Installs requirments
