@@ -41,7 +41,7 @@ def say_stuff(stuff_to_say):
     engine = pyttsx3.init()
     engine.say(str(stuff_to_say))
     engine.runAndWait()
-print(Fore.GREEN + Back.BLACK)
+print(Fore.GREEN)
 if str(platform.system()) == 'Linux':
     os.system('figlet AnonymousPAK DDoS Attack')
 else:
@@ -126,7 +126,7 @@ try:
         os.system('go run hulk.go -site {0}'.format(site))
     else:
         os.system('HULKMAXPROCS={0} go run hulk.go -site {1}'.format(threads,site))
-    print(Back.BLACK + Fore.GREEN)
+    print(Fore.GREEN)
     
 except:
     print('[+] Execution Stopped with Error Code 0, Install GoLang or Your Internet is not working properly')
@@ -141,6 +141,6 @@ print(" ")
 print(" ")    
 print(" ")
 print(Fore.GREEN +'[+] Anonymous DDoS tool by' + Fore.RED + ' Anonymous Pakistan Community                              ') 
-print(Back.BLACK +Fore.GREEN + '[+] Orbit-DDoS Tool made in Python by CPScript                      ')
+print(Fore.GREEN + '[+] Orbit-DDoS Tool made in Python by CPScript                      ')
 print(Fore.RED + '[+] Youtube: ' + Fore.GREEN + 'https://www.youtube.com/channel/UCpMPWg0TXBINqpCTeol4Yhg')
 print(Fore.YELLOW + '[+] GitHub: ' + Fore.GREEN + 'CPScript')
