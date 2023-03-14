@@ -20,7 +20,7 @@ os.system(delet)
 files = []
 
 for file in os.listdir():
-	if file == "requirements.py":
+	if file == "JustAfile.txt":
 		continue
 	if os.path.isfile(file):
 		files.append(file)
