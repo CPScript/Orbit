@@ -128,7 +128,7 @@ Download for your OS form Golang.org/dl/
 
 <div align=left>
 
-## Images
+## Videos & Images
 
 <details open>
 <summary>Video</summary>
