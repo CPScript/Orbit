@@ -5,4 +5,4 @@ colorama
 os
 socket
 wheel
-
+cryptography
