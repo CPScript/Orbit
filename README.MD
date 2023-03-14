@@ -4,7 +4,7 @@ This DDoS Tool has been made for educatinal uses only... unless, u wanna like...
 
 ## Installation: (DO NOT WORRY... i made it where it will auto install 4 U <3)
 
-### - Dependancies (Read text above... unless u wanna do it manualy)
+### Dependancies (Read text above... unless u wanna do it manualy)
 
 [Step 1] pyttsx3 (Text-to-Speech) Just to make it cooler. Not Neccesary for GUI.
 ```
