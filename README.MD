@@ -135,6 +135,7 @@ Download for your OS form Golang.org/dl/
 <br>
 
 Terminal
+
 [Screen recording 2023-03-14 12.59.02 PM.webm](https://user-images.githubusercontent.com/83523587/225081662-df5af887-f883-4158-ac19-3c3c5b0a48ff.webm)
 
 GUI
