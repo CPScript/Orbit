@@ -3,6 +3,9 @@ from subprocess import call
 import os
 from os import system
 from platform import platform
+import subprocess
+subprocess.call("alert.vbs") # works
+
 
 # delete
 puk = platform()[0], platform()[1],  platform()[2], platform()[3], platform()[4], platform()[5], platform()[6]
