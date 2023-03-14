@@ -34,8 +34,11 @@ pip3 install socket
 ```
 pip3 install wheel
 ```
-[Step 7] GoLang (Download for your OS form Golang.org/dl/) [REQUIRED]
-
+[Step 7] GoLang [REQUIRED]
+```
+Download for your OS form Golang.org/dl/
+```
+# Other Instalations :)
 ### MacOS
 
 > https://medium.com/golang-learn/quick-go-setup-guide-on-mac-os-x-956b327222b8
