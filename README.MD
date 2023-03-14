@@ -1,10 +1,10 @@
 # Anonymous DDoS Tool
 
-This DDoS Tool has been written by Muneeb Khurram, and this Script could only be used for Educational Purposes see License. Now added a GUI with only Two Dependancies Pyfiglet and GoLang.
+This DDoS Tool has been made for educatinal uses only... unless, u wanna like... yk... DoS someone
 
-## Installation
+## Installation: (DO NOT WORRY... i made it where if you use got python it will auto install 4 U <3)
 
-#### - Dependancies
+#### - Dependancies (Read text above... unless u wanna do it manualy)
 a) pyttsx3 (Text-to-Speech) Just to make it cooler. Not Neccesary for GUI.
 ```
 pip3 install pyttsx3
@@ -33,7 +33,7 @@ f) wheel (To make wheel of colorama)
 ```
 pip3 install wheel
 ```
-e) GoLang (Download for your OS form Golang.org/dl/) 
+e) GoLang (Download for your OS form Golang.org/dl/) [REQUIRED]
 
 ### MacOS
 
@@ -66,20 +66,20 @@ If not Follow, the above shown for Linux/Ubuntu
 
 
 ## Other
-Use Install_Dependancies.py to Install all of these except GoLang (it has to be downloaded Manually)
+Use Installs.py to Install all of these except GoLang (it has to be downloaded Manually)
 ````
-python3 Install_Dependancies.py
+python3 Install.py
 ````
 ## Usage
 ````
-python3 Python-Script.py
+python3 DDoS.py
 ````
 ## GUI Requirements
 
 > Install Pyfiglet and GoLang as Above and you are ready to go. Use this if you cannot satisfy one of the above dependancies. Highly Easy to use. Recommended for Beginners using Windows. If you use this on a Linux Distro and get tkinter not found install tkinter. 
 
 ```
-python3 DDoS_GUI.py
+python3 GUI.py
 ```
 ## Tested OS/ENV
 
