@@ -20,8 +20,8 @@ else:
 
 print(Back.GREEN + Fore.GREEN +'[+] Anonymous DDoS tool by' + Fore.RED + 'Anonymous Pakistan Community                              ') 
 print(Back.GREEN + Fore.BLACK + '[+] Anonymous-DDoS Tool BETA VERSION 0.7                                            ')
-print(Back.BLACK +Fore.GREEN + '[+] Anonymous-DDoS Tool Interactive Menu in Python by CPScript                      ')
-print(Fore.YELLOW + '[+] We are Anonymous, We are a Legion, We do not Forgive, We do not Forget                            ')
+print(Back.BLACK +Fore.GREEN + '[+] Anonymous-DDoS Tool Menu in Python by CPScript                      ')
+print(Fore.YELLOW + '[+] We are Anonymous, We are a Legion, We do not Forgive, We do not Forget')
 print("|============================================================================|")
 print(Fore.GREEN + '[+] Starting Anonymous DDoS Tool with 1024 Baseline Threads as Default change below as Required           ')
 print('Your OS:'+ Fore.RED + str(platform.system())+Fore.GREEN)
