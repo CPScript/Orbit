@@ -19,13 +19,11 @@ else:
     os.system('pyfiglet AnonymousPAK  DDoS Attack')
 
 print(Back.GREEN + Fore.GREEN +'[+] Anonymous DDoS tool by' + Fore.RED + 'Anonymous Pakistan Community                              ') 
-print(Back.GREEN + Fore.BLACK + '[+] AnonPAK-DDoS Tool BETA VERSION 0.1                                             ')
-print(Back.BLACK +Fore.GREEN + '[+] AnonPAK-DDoS Tool Interactive Menu in Python by Muneeb Khurram                         ')
+print(Back.GREEN + Fore.BLACK + '[+] Anonymous-DDoS Tool BETA VERSION 0.7                                            ')
+print(Back.BLACK +Fore.GREEN + '[+] Anonymous-DDoS Tool Interactive Menu in Python by CPScript                      ')
 print(Fore.YELLOW + '[+] We are Anonymous, We are a Legion, We do not Forgive, We do not Forget                            ')
-print(Fore.GREEN + '[+] Starting AnonPAK DoS Tool with 1024 Baseline Threads as Default change below as Required           ')
-print(Fore.BLUE + 'Author: ' + Fore.GREEN + 'Muneeb Khurram (UBISOFT-1)')
-print(Fore.RED + 'Youtube: ' + Fore.GREEN + 'https://www.youtube.com/channel/UCzYulTuhxSIqSlW2PqTkkEw')
-print(Fore.YELLOW + 'GitHub: ' + Fore.GREEN + 'https://github.com/ubisoft-1')
+print("|============================================================================|")
+print(Fore.GREEN + '[+] Starting Anonymous DDoS Tool with 1024 Baseline Threads as Default change below as Required           ')
 print('Your OS:'+ Fore.RED + str(platform.system())+Fore.GREEN)
 try:
     threads = input('[+] ENTER THE NUMBER OF' + Fore.BLUE + ' THREADS ' + Fore.GREEN + 'FOR DDoS >>>')
@@ -61,3 +59,11 @@ except:
     os.system('python3 Install_Dependancies.py')
     os.system('python Install_Dependancies.py')
     os.system('py Install_Dependancies.py')
+    
+    
+
+print(" ")    
+print(" ")    
+print(" ")
+print(Fore.RED + 'Youtube: ' + Fore.GREEN + 'https://www.youtube.com/channel/UCpMPWg0TXBINqpCTeol4Yhg')
+print(Fore.YELLOW + 'GitHub: ' + Fore.GREEN + 'CPScript')
