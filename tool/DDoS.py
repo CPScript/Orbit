@@ -95,7 +95,7 @@ print("""
 time.sleep(1)
 print('Your OS:'+ Fore.RED + str(platform.system())+Fore.GREEN)
 print("Your IP:" + IPAddr)
-print(Fore.BLACK + '[+] Orbit-DDoS Tool BETA VERSION 0.7         ')
+print(Fore.BLACK + '[+] Orbit-DDoS Tool BETA VERSION 1.3         ')
 print("|===========================================================================|")
 time.sleep(2)
 print("                                                                          ")
