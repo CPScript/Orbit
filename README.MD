@@ -9,7 +9,8 @@ This DDoS Tool has been made for educatinal uses only... unless, u wanna like...
 
 <div align="left">
 
-## Installation: (DO NOT WORRY... i made it where it will auto install 4 U <3)
+## Installation:
+##### Don't worry about installing... all you gotta do is run the program, i made it auto install :)
 
 
 <details open>
