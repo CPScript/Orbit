@@ -12,6 +12,21 @@ if puk == ('W', 'i', 'n', 'd', 'o', 'w', 's'):
     dr = '\\'
 else:
     delet = 'clear'
+from colorama import Fore, Back, Style
+#print(Fore.RED + 'some red text')
+#print(Back.GREEN + 'and with a green background')
+#print(Style.DIM + 'and in dim text')
+#print(Style.RESET_ALL)
+#print('back to normal now')
+import socket 
+from platform import platform
+puk = platform()[0], platform()[1],  platform()[2], platform()[3], platform()[4], platform()[5], platform()[6]
+
+if puk == ('W', 'i', 'n', 'd', 'o', 'w', 's'):
+    delet = 'cls'
+    dr = '\\'
+else:
+    delet = 'clear'
     dr = '/'
   
 import time
@@ -19,6 +34,9 @@ import os
 import pyttsx3
 import sys
 import platform
+hostname = socket.gethostname()    
+IPAddr = socket.gethostbyname(hostname)
+
 def say_stuff(stuff_to_say):
     engine = pyttsx3.init()
     engine.say(str(stuff_to_say))
@@ -76,6 +94,7 @@ print("""
 
 time.sleep(1)
 print('Your OS:'+ Fore.RED + str(platform.system())+Fore.GREEN)
+print("Your IP:" + IPAddr)
 print(Fore.BLACK + '[+] Orbit-DDoS Tool BETA VERSION 0.7         ')
 print("|===========================================================================|")
 time.sleep(2)
