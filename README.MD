@@ -4,7 +4,7 @@
 ![satellite-png-30](https://user-images.githubusercontent.com/83523587/224998588-fb8d502f-f9c1-4763-af2f-51ffbec2cf16.png)
 
 
-This DDoS Tool has been made for educatinal uses only... unless, u wanna like... yk... DoS someone
+This DDoS Tool has been made for educatinal uses only... unless, u wanna like... yk... DoS someone... that is on you YK
 
 <div align="left">
 
