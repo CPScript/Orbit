@@ -20,17 +20,51 @@ else:
     os.system('pyfiglet AnonymousPAK  DDoS Attack')
 
 # Logo
-print("""
+print("""                                                                                                                             
+                                .cdo,.                                                                                       
+                               'dKKKKkl'                                                                                     
+                             .:OKKKKKKK0xc.                                                                                  
+                            .dKKKKKKKKKKKKOd;.                                                                               
+                           .dKKKKKKKKKKKKKKKKOo,.                                                                            
+                            .cx0KKKKKKKKKKKKKKK0kl'                                                                          
+                              .'ck0KKKKKKKKKKKKKKK0xc.                                                                       
+                                 .,okKKKKKKKKKKKKKKKKOd:.                                                                    
+                                    .;dOKKKKKKKKKKKKKKKKOo;.        .                                                        
+                                       .:x0KKKKKKKKKKKKKKKKkc.    .okxxo,                                                    
+                                          'cx0KKKKKKKKKKKKK0c.   ,kKKKKKO;                                                   
+                                            .,lkKKKKKKKKKK0l..',;dKKKKKKO:                                                   
+                                               .;dOKKKKK0kOOdx0KKKKKK0Ox,                                                    
+                                                  .:d0Kk;.,kKKKKKKKKKk;.                                                     
+                                                     .,. .o0KKKKKKKKKd. .coc.                                                
+                                                        ;kKKKKKKKKKKKkc:xKKKOd:.                                             
+                                                        :OKKKKKKKKx;:xKKKKKKKKKOo;.                                          
+                                         .';:ccllllllc;.,xKKKKKK0l. 'xKKKKKKKKKKKKkl,.                                       
+                                       .lk0KKKKKKKKKKKK0O00o::cc,  .kKKKKKKKKKKKKKKK0xc'                                     
+                                       .,lkKKKKKKKKKKKKKKK0d'       ,lkKKKKKKKKKKKKKKKK0d:.                                  
+                                          .l0KKKKKKKKKKKKKKKO;        .;oOKKKKKKKKKKKKKKKKOo;.                               
+                                           'OOod0KKKKKKKKKKKKkl'         .:d0KKKKKKKKKKKKKKKKkl,.                            
+                                           .dO, 'cx0KKKKKKKKKKKo.           'cx0KKKKKKKKKKKKKKK0xc'                          
+                                            cOc   .,lkKKKKKKKKXO,             .,lkKKKKKKKKKKKKKKKK0x;.                       
+                                            'ko.     .:x0KKKKKKKl                .;oOKKKKKKKKKKKKKKO:.                       
+                                            .dOc,:cloodxkOk0KKKKd.                  .:d0KKKKKKKKKKx'                         
+                                            .xOdllc:;;,'...'cxO0l                      'cx0KKKKK0l.                          
+                                            .;'              ....                        .,lkKKx,                            
+                                                                                            .,;.                             
+                                                                                                                             
+                                                                                                                             
+                                                                                                                             
+                                                                                                                              
 """)
 
 time.sleep(1)
+os.system(delet)
 print(Back.GREEN + Fore.BLACK + '[+] Orbit-DDoS Tool BETA VERSION 0.7         ')
 time.sleep(3)
 print(Fore.YELLOW + '[+] We are Anonymous, We are a Legion, We do not Forgive, We do not Forget')
 print("|===========================================================================|")
 time.sleep(2)
-print(" ")
-print(Fore.GREEN + '[+] Starting Anonymous DDoS Tool with 1024 Baseline Threads as Default change below as Required           ')
+print("                                                                          ")
+print(Fore.GREEN + '[+] DDoS Tool starts with 1024 Baseline Threads as Default, change below is Required           ')
 print('Your OS:'+ Fore.RED + str(platform.system())+Fore.GREEN)
 try:
     threads = input('[+] ENTER THE NUMBER OF' + Fore.BLUE + ' THREADS ' + Fore.GREEN + 'FOR DDoS >>>')
