@@ -133,7 +133,19 @@ Download for your OS form Golang.org/dl/
 <details>
 <summary>Video</summary>
 <br>
-Video here
+
+Terminal
+[Screen recording 2023-03-14 12.59.02 PM.webm](https://user-images.githubusercontent.com/83523587/225081662-df5af887-f883-4158-ac19-3c3c5b0a48ff.webm)
+
+GUI
+(The Orbit repositroy Gets taken down, even with it being privet.)
+
+![Screenshot 2023-03-14 1 06 08 PM](https://user-images.githubusercontent.com/83523587/225083403-de1b4626-4ac6-4223-8d17-2a462e37de66.png)
+
+[Screen recording 2023-03-14 1.08.41 PM.webm](https://user-images.githubusercontent.com/83523587/225084259-55fbe3fb-d2d7-474e-8d37-fa9b27262651.webm)
+
+
+
 </details>
 
 <details>
@@ -141,6 +153,7 @@ Video here
 <br>
 
 ![Screenshot 2023-03-14 12 42 23 PM](https://user-images.githubusercontent.com/83523587/225076412-49e94e15-dea2-495b-ac1d-b868589d5aa4.png)
+
 
 </details>
 
