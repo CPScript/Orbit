@@ -12,9 +12,8 @@ This DDoS Tool has been made for educatinal uses only... unless, u wanna like...
 ## Installation: (DO NOT WORRY... i made it where it will auto install 4 U <3)
 
 
-<details>
-<summary>Dependancies (Read text above... Unless u wanna do it manualy)</summary>
-<br>
+### Dependancies (Read text above... unless u wanna do it manualy)
+
 [Step 1] pyttsx3 (Text-to-Speech) Just to make it cooler. Not Neccesary for GUI.
 ```
 pip3 install pyttsx3
@@ -47,62 +46,53 @@ pip3 install wheel
 ```
 Download for your OS form Golang.org/dl/
 ```
+# Other Instalations :)
+### MacOS
 
-  <details>
-  <summary>Other Installations</summary>
-  <br>
-  # Other Instalations :)
-  ### MacOS
+> https://medium.com/golang-learn/quick-go-setup-guide-on-mac-os-x-956b327222b8
 
-  > https://medium.com/golang-learn/quick-go-setup-guide-on-mac-os-x-956b327222b8
+### Windows
 
-  ### Windows
+> https://www.geeksforgeeks.org/how-to-install-go-on-windows/
 
-  > https://www.geeksforgeeks.org/how-to-install-go-on-windows/
+### Linux
 
-  ### Linux
+> https://tecadmin.net/install-go-on-ubuntu/
+```
+sudo apt-get install golang
+```
+or
+```
+sudo apt-get install golang-go
+```
 
-  > https://tecadmin.net/install-go-on-ubuntu/
-  ```
-  sudo apt-get install golang
-  ```
-  or
-  ```
-  sudo apt-get install golang-go
-  ```
-    
-  ### Kali Linux
+### Kali Linux
 
-  Kali has GoLang Pre-Installed.
-  Check by typing;
+Kali has GoLang Pre-Installed.
+Check by typing;
 
-  ```
-  go 
-  ```
-  If not Follow, the above shown for Linux/Ubuntu
+```
+go 
+```
+If not Follow, the above shown for Linux/Ubuntu
 
 
-  ## Other
-  Use Installs.py to Install all of these except GoLang (it has to be downloaded Manually)
-  ````
-  python3 Install.py
-  ````
-  ## Usage
-  ````
-  python3 DDoS.py
-  ````
-  ## GUI Requirements
+## Other
+Use Installs.py to Install all of these except GoLang (it has to be downloaded Manually)
+````
+python3 Install.py
+````
+## Usage
+````
+python3 DDoS.py
+````
+## GUI Requirements
 
-  > Install Pyfiglet and GoLang as Above and you are ready to go. Use this if you cannot satisfy one of the above dependancies. Highly    Easy to use. Recommended for Beginners using Windows. If you use this on a Linux Distro and get tkinter not found install tkinter. 
+> Install Pyfiglet and GoLang as Above and you are ready to go. Use this if you cannot satisfy one of the above dependancies. Highly Easy to use. Recommended for Beginners using Windows. If you use this on a Linux Distro and get tkinter not found install tkinter. 
 
-  ```
-  python3 GUI.py
-  ```
-  </details>
-
-</details>
-
-
+```
+python3 GUI.py
+```
 ## Tested OS/ENV
 
 - Linux Stable Release 2020
