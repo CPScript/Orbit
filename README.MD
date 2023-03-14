@@ -139,13 +139,13 @@ Video here
 <details>
 <summary>Terminal</summary>
 <br>
-image here
+![Screenshot 2023-03-14 12 42 23 PM](https://user-images.githubusercontent.com/83523587/225076412-49e94e15-dea2-495b-ac1d-b868589d5aa4.png)
 </details>
 
 <details>
 <summary>GUI</summary>
 <br>
-image here
+![Screenshot 2023-03-14 12 39 44 PM](https://user-images.githubusercontent.com/83523587/225075802-92997a88-d50c-41ff-8829-1c110ba88b0e.png)
 </details>
 
 <details>
