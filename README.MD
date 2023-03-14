@@ -130,4 +130,27 @@ Download for your OS form Golang.org/dl/
 
 ## Images
 
+<details>
+<summary>Terminal</summary>
+<br>
+image here
+</details>
+
+<details>
+<summary>GUI</summary>
+<br>
+image here
+</details>
+
+<details>
+<summary>encryption</summary>
+<br>
+image here
+</details>
+
+<details>
+<summary>Code</summary>
+<br>
+image here
+</details>
 
