@@ -1,4 +1,4 @@
-# Anonymous DDoS Tool
+# ORBIT DDoS Tool
 
 This DDoS Tool has been made for educatinal uses only... unless, u wanna like... yk... DoS someone
 
