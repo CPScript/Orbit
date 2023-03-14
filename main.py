@@ -23,6 +23,7 @@ time.sleep(10)
 # Installs requirments
 os.system(delet)
 os.system(pip install -r requirements.txt)
+os.system(delet)
 call(["python", "tool/Install.py"])
 os.system(delet)
 
