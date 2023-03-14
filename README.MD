@@ -5,7 +5,8 @@
 ![satellite-png-30](https://user-images.githubusercontent.com/83523587/224998588-fb8d502f-f9c1-4763-af2f-51ffbec2cf16.png)
 
 
-This DDoS Tool has been made for educatinal uses only... unless, u wanna like... yk... DoS someone... that is on you YK
+~Orbit~ One of the most EASIEST & FASTEST DDoS tool, able to take down Small websites, IPs, and other Random shit...
+The user CPScript is not responsible for your DUMBASS actions, and has no liability for what you fucking do with this shit.
 
 <div align="left">
 
