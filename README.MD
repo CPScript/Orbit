@@ -6,7 +6,17 @@
 
 
 ~Orbit~ One of the most EASIEST & FASTEST DDoS tool, able to take down Small websites, IPs, and other Random shit...
+  
+ <details>
+<summary>More Info</summary>
+<br>
+   
+The user CPScript is not responsible for your DUMBASS actions, and has no liability for what you fucking do with this shit.
+Made for educatinal purposes only 
 
+</details>
+  
+  
 <div align="left">
 
 ## Installation:
