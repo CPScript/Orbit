@@ -45,7 +45,11 @@ pip3 install socket
 ```
 pip3 install wheel
 ```
-[Step 7] GoLang [REQUIRED]
+[Steo 7] cryptography (Ment for encryptor)
+```
+pip3 install cryptography
+```
+[Step 8] GoLang [REQUIRED]
 ```
 Download for your OS form Golang.org/dl/
 ```
