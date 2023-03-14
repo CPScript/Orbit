@@ -3,8 +3,6 @@ from subprocess import call
 import os
 from os import system
 from platform import platform
-import subprocess
-subprocess.call("alert.vbs") # works
 
 
 # delete
