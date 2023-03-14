@@ -35,17 +35,17 @@ def Attack_Target():
        
     
 root = tk.Tk()
-root.title("Orbit")
+root.title("Orbit | VERSION 1.3")
 
-Information = Label(text = "Orbit-DDoS Tool", font = 'Calbri')
+Information = Label(text = "Orbit-DDoS", font = 'Calbri')
 Information.grid(row =1, column =1)
-Usage = Label(text = 'Usage: Enter the Website to DDoS e.g. https://example.com and Number of Threads i.e. 1024 - Infinity (On Windows 1024 Threads are Limited)')
+Usage = Label(text = 'Usage: Enter the Website to DDoS and Number of Threads (Can be from 1024 to a billion) - (On Windows 1024 Threads are Limited)')
 Usage.grid(row =2, column =1)
-Website_Name = Label(text = "Enter the Website Name Below")
+Website_Name = Label(text = "Website to DDoS")
 Website_Name.grid(row = 3, column =1)
 Website = tk.Entry(root,bd = 5)
 Website.grid(row =4, column =1)
-Thread_Name = Label(text = "Enter the Number of Threads for Attacking Website Below")
+Thread_Name = Label(text = "Number of Threads to use")
 Thread_Name.grid(row = 5, column =1)
 Thread = tk.Entry(root,bd = 5)
 Thread.grid(row = 6, column =1)
