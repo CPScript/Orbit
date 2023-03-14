@@ -153,10 +153,3 @@ image here
 <br>
 image here
 </details>
-
-<details>
-<summary>Code</summary>
-<br>
-image here
-</details>
-
