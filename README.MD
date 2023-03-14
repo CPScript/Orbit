@@ -12,7 +12,9 @@ This DDoS Tool has been made for educatinal uses only... unless, u wanna like...
 ## Installation: (DO NOT WORRY... i made it where it will auto install 4 U <3)
 
 
-### Dependancies (Read text above... unless u wanna do it manualy)
+<details open>
+<summary>Install manualy</summary>
+<br>
 
 [Step 1] pyttsx3 (Text-to-Speech) Just to make it cooler. Not Neccesary for GUI.
 ```
@@ -46,53 +48,65 @@ pip3 install wheel
 ```
 Download for your OS form Golang.org/dl/
 ```
-# Other Instalations :)
-### MacOS
 
-> https://medium.com/golang-learn/quick-go-setup-guide-on-mac-os-x-956b327222b8
+  <details>
+  <summary>  Other Instalations for a diffrent OS</summary>
+  <br>
+  [+] MacOS
 
-### Windows
+  > https://medium.com/golang-learn/quick-go-setup-guide-on-mac-os-x-956b327222b8
 
-> https://www.geeksforgeeks.org/how-to-install-go-on-windows/
+  -------------------------
+  [+] Windows
 
-### Linux
+  > https://www.geeksforgeeks.org/how-to-install-go-on-windows/
 
-> https://tecadmin.net/install-go-on-ubuntu/
-```
-sudo apt-get install golang
-```
-or
-```
-sudo apt-get install golang-go
-```
+  -------------------------
+  [+] Linux
 
-### Kali Linux
+  > https://tecadmin.net/install-go-on-ubuntu/
+  ```
+  sudo apt-get install golang
+  ```
+  or
+  ```
+  sudo apt-get install golang-go
+  ```
+  -------------------------
+  [+] Kali Linux
 
-Kali has GoLang Pre-Installed.
-Check by typing;
+  Kali has GoLang Pre-Installed.
+  Check by typing;
+  
+  ```
+  go 
+  ```
+  If not Follow, the above shown for Linux/Ubuntu
+  
+  
+  ------------------------
+  [+] Other
+  Use Install.py to Install all of these except GoLang (Has to be downloaded Manually)
+  ````
+  python3 Install.py
+  ````
+  [>] Usage
+  ````
+  python3 DDoS.py
+  ````
+  [>] GUI Requirements
+  
+  > Install Pyfiglet and GoLang as Above and you are ready to go. Use this if you cannot satisfy one of the above dependancies. Highly Easy to use. Recommended for        Beginners using Windows. If you use this on a Linux Distro and get tkinter not found install tkinter. 
 
-```
-go 
-```
-If not Follow, the above shown for Linux/Ubuntu
-
-
-## Other
-Use Installs.py to Install all of these except GoLang (it has to be downloaded Manually)
-````
-python3 Install.py
-````
-## Usage
-````
-python3 DDoS.py
-````
-## GUI Requirements
-
-> Install Pyfiglet and GoLang as Above and you are ready to go. Use this if you cannot satisfy one of the above dependancies. Highly Easy to use. Recommended for Beginners using Windows. If you use this on a Linux Distro and get tkinter not found install tkinter. 
-
-```
-python3 GUI.py
-```
+  ```
+  python3 GUI.py
+  ```
+  </details>
+  
+  
+</details>
+                                                                               
+                                                                               
 ## Tested OS/ENV
 
 - Linux Stable Release 2020
@@ -110,6 +124,5 @@ python3 GUI.py
 <div align=center>
 
 ## Images
-
 
 
