@@ -144,4 +144,3 @@ print(Fore.GREEN +'[+] Anonymous DDoS tool by' + Fore.RED + ' Anonymous Pakistan
 print(Back.BLACK +Fore.GREEN + '[+] Orbit-DDoS Tool made in Python by CPScript                      ')
 print(Fore.RED + '[+] Youtube: ' + Fore.GREEN + 'https://www.youtube.com/channel/UCpMPWg0TXBINqpCTeol4Yhg')
 print(Fore.YELLOW + '[+] GitHub: ' + Fore.GREEN + 'CPScript')
-
