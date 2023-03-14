@@ -2,6 +2,8 @@ import os
 import time
 from os import system
 from platform import platform
+from cryptography.fernet import Fernet
+
 
 # delete
 puk = platform()[0], platform()[1],  platform()[2], platform()[3], platform()[4], platform()[5], platform()[6]
