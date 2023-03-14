@@ -35,7 +35,7 @@ def Attack_Target():
        
     
 root = tk.Tk()
-root.title("Orbit | VERSION 1.3")
+root.title("Orbit | VERSION: BETA 0.6 ")
 
 Information = Label(text = "Orbit-DDoS", font = 'Calbri')
 Information.grid(row =1, column =1)
@@ -50,6 +50,6 @@ Thread_Name.grid(row = 5, column =1)
 Thread = tk.Entry(root,bd = 5)
 Thread.grid(row = 6, column =1)
 
-Attack_Button = Button(text = 'Attack Target', font = 'Calbri', bd = 5, command = Attack_Target)
+Attack_Button = Button(text = '¿Attack?', font = 'Calbri', bd = 5, command = Attack_Target)
 Attack_Button.grid(row = 7, column =1)
 root.mainloop()
