@@ -126,7 +126,7 @@ Download for your OS form Golang.org/dl/
 
 > This should run on all enviorments. Even on Oldest OS's provided the above dependancies are completed
 
-<div align=center>
+<div align=left>
 
 ## Images
 
