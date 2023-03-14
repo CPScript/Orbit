@@ -13,7 +13,7 @@ This DDoS Tool has been made for educatinal uses only... unless, u wanna like...
 ##### Don't worry about installing... all you gotta do is run the program, i made it auto install :)
 
 
-<details open>
+<details>
 <summary>Install manualy</summary>
 <br>
 
