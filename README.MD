@@ -130,7 +130,7 @@ Download for your OS form Golang.org/dl/
 
 ## Images
 
-<details>
+<details open>
 <summary>Video</summary>
 <br>
 
