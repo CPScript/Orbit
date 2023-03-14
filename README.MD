@@ -10,7 +10,9 @@
  <details>
 <summary>More Info</summary>
 <br>
-   
+
+Plans for next update: Update GUI to look better
+
 The user CPScript is not responsible for your DUMBASS actions, and has no liability for what you fucking do with this shit.
 Made for educatinal purposes only 
 
