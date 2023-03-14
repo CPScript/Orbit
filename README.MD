@@ -12,7 +12,11 @@
 <br>
 
 Plans for next update: Update GUI to look better
-VERSION 1.3
+   
+Terminal Version> 1.3
+
+GUI Version> BETA 0.6   
+   
 The user CPScript is not responsible for your DUMBASS actions, and has no liability for what you fucking do with this shit.
 Made for educatinal purposes only 
 
