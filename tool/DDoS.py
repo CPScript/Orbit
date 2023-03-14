@@ -20,40 +20,44 @@ else:
     os.system('pyfiglet AnonymousPAK  DDoS Attack')
 
 # Logo
-print("""                                                                                                                             
-                                .cdo,.                                                                                       
-                               'dKKKKkl'                                                                                     
-                             .:OKKKKKKK0xc.                                                                                  
-                            .dKKKKKKKKKKKKOd;.                                                                               
-                           .dKKKKKKKKKKKKKKKKOo,.                                                                            
-                            .cx0KKKKKKKKKKKKKKK0kl'                                                                          
-                              .'ck0KKKKKKKKKKKKKKK0xc.                                                                       
-                                 .,okKKKKKKKKKKKKKKKKOd:.                                                                    
-                                    .;dOKKKKKKKKKKKKKKKKOo;.        .                                                        
-                                       .:x0KKKKKKKKKKKKKKKKkc.    .okxxo,                                                    
-                                          'cx0KKKKKKKKKKKKK0c.   ,kKKKKKO;                                                   
-                                            .,lkKKKKKKKKKK0l..',;dKKKKKKO:                                                   
-                                               .;dOKKKKK0kOOdx0KKKKKK0Ox,                                                    
-                                                  .:d0Kk;.,kKKKKKKKKKk;.                                                     
-                                                     .,. .o0KKKKKKKKKd. .coc.                                                
-                                                        ;kKKKKKKKKKKKkc:xKKKOd:.                                             
-                                                        :OKKKKKKKKx;:xKKKKKKKKKOo;.                                          
-                                         .';:ccllllllc;.,xKKKKKK0l. 'xKKKKKKKKKKKKkl,.                                       
-                                       .lk0KKKKKKKKKKKK0O00o::cc,  .kKKKKKKKKKKKKKKK0xc'                                     
-                                       .,lkKKKKKKKKKKKKKKK0d'       ,lkKKKKKKKKKKKKKKKK0d:.                                  
-                                          .l0KKKKKKKKKKKKKKKO;        .;oOKKKKKKKKKKKKKKKKOo;.                               
-                                           'OOod0KKKKKKKKKKKKkl'         .:d0KKKKKKKKKKKKKKKKkl,.                            
-                                           .dO, 'cx0KKKKKKKKKKKo.           'cx0KKKKKKKKKKKKKKK0xc'                          
-                                            cOc   .,lkKKKKKKKKXO,             .,lkKKKKKKKKKKKKKKKK0x;.                       
-                                            'ko.     .:x0KKKKKKKl                .;oOKKKKKKKKKKKKKKO:.                       
-                                            .dOc,:cloodxkOk0KKKKd.                  .:d0KKKKKKKKKKx'                         
-                                            .xOdllc:;;,'...'cxO0l                      'cx0KKKKK0l.                          
-                                            .;'              ....                        .,lkKKx,                            
-                                                                                            .,;.                             
-                                                                                                                             
-                                                                                                                             
-                                                                                                                             
-                                                                                                                              
+print("""                                                                                           
+       .cdo,.                                                                                       
+      'dKKKKkl'                                                                                     
+    .:OKKKKKKK0xc.                                                                                  
+    .dKKKKKKKKKKKKOd;.                                                                              
+  .dKKKKKKKKKKKKKKKKOo,.                                                                            
+  .cx0KKKKKKKKKKKKKKK0kl'                                                                           
+     .'ck0KKKKKKKKKKKKKKK0xc.                                                                       
+        .,okKKKKKKKKKKKKKKKKOd:.                                                                    
+           .;dOKKKKKKKKKKKKKKKKOo;.        .                                                        
+              .:x0KKKKKKKKKKKKKKKKkc.    .okxxo,                                                    
+                 'cx0KKKKKKKKKKKKK0c.   ,kKKKKKO;                                                   
+                   .,lkKKKKKKKKKK0l..',;dKKKKKKO:                                                   
+                      .;dOKKKKK0kOOdx0KKKKKK0Ox,                                                    
+                         .:d0Kk;.,kKKKKKKKKKk;.                                                     
+                            .,. .o0KKKKKKKKKd. .coc.                                                
+                               ;kKKKKKKKKKKKkc:xKKKOd:.                                             
+                               :OKKKKKKKKx;:xKKKKKKKKKOo;.                                          
+                .';:ccllllllc;.,xKKKKKK0l. 'xKKKKKKKKKKKKkl,.                                       
+              .lk0KKKKKKKKKKKK0O00o::cc,  .kKKKKKKKKKKKKKKK0xc'                                     
+              .,lkKKKKKKKKKKKKKKK0d'       ,lkKKKKKKKKKKKKKKKK0d:.                                  
+                 .l0KKKKKKKKKKKKKKKO;        .;oOKKKKKKKKKKKKKKKKOo;.                               
+                  'OOod0KKKKKKKKKKKKkl'         .:d0KKKKKKKKKKKKKKKKkl,.                            
+                  .dO, 'cx0KKKKKKKKKKKo.           'cx0KKKKKKKKKKKKKKK0xc'                          
+                   cOc   .,lkKKKKKKKKXO,             .,lkKKKKKKKKKKKKKKKK0x;.                       
+                   'ko.     .:x0KKKKKKKl                .;oOKKKKKKKKKKKKKKO:.                       
+                   .dOc,:cloodxkOk0KKKKd.                  .:d0KKKKKKKKKKx'                         
+                   .xOdllc:;;,'...'cxO0l                      'cx0KKKKK0l.                          
+                   .;'              ....                        .,lkKKx,                            
+                                                                   .,;.                             
+                                                                                                    
+                ██████╗ ██████╗ ██████╗ ██╗████████╗                                                
+               ██╔═══██╗██╔══██╗██╔══██╗██║╚══██╔══╝                                                
+               ██║   ██║██████╔╝██████╔╝██║   ██║                                                   
+               ██║   ██║██╔══██╗██╔══██╗██║   ██║                                                   
+               ╚██████╔╝██║  ██║██████╔╝██║   ██║                                                   
+                ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝                                                   
+                DDoS tool                                                                           
 """)
 
 time.sleep(1)
