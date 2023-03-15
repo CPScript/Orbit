@@ -119,5 +119,5 @@ if choice == "2":
     print("encrypting program files...")
     time.sleep(2)
     print("This will not harm your computer in any way.")
-    subprocess.call([r'tool/encrypt.bat'])
+    subprocess.call([r'tool/encrypt.vbs'])
 
