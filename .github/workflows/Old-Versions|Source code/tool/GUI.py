@@ -24,24 +24,17 @@ def Attack_Target():
         os.system('figlet AnonymousPAK DDoS')
     else:
         os.system("pyfiglet AnonymousPAK DDoS")
-    messagebox.showinfo("Orbit Status", "DDoS Attack has been Started with " + str(threads) + " on Website " + website)
-    if str(platform.system()) == 'Windows':
-        os.system('go run hulk.go -site {0}'.format(website))
-    else:
-        DDoS_Output = "HULKMAXPROCS={0} go run hulk.go -site {1}".format(threads, website)
-        os.system(DDoS_Output)
+    messagebox.showinfo("Orbit | Trolled", "GET TROLLED")
+
 
 
 
        
     
 root = tk.Tk()
-root.title("Orbit | VERSION: 1.6 ")
-root.configure(bg='black')
+root.title("Orbit | VERSION: Trolled ")
+root.configure(bg='red')
 root.geometry("385x275")
-
-# Image
-bg = PhotoImage(file="background.png")
 
 # Label
 my_label = Label(root, image=bg)
@@ -49,22 +42,22 @@ my_label.place(x=50, y=50, relwidth=1, relheight=1)
 
 
 
-Information = Label(text = "Orbit-DDoS", font = 'Calbri')
+Information = Label(text = "TROLLED", font = 'Calbri')
 Information.grid(row =1, column =1)
-Usage = Label(text = 'Made by: Chai-Programming')
+Usage = Label(text = 'You have been trolled...')
 Usage.grid(row =2, column =1)
-Website_Name = Label(text = "Website to DDoS")
+Website_Name = Label(text = "Access denied")
 Website_Name.grid(row = 3, column =1)
 Website = tk.Entry(root,bd = 5)
 Website.grid(row =4, column =1)
-Thread_Name = Label(text = "Number of Threads (1024 to Infinity) [requires a powerfull pc to do a lot]")
+Thread_Name = Label(text = "YOU FUCKING DUMBASS... no source code here...")
 Thread_Name.grid(row = 5, column =1)
 Thread = tk.Entry(root,bd = 5)
 Thread.grid(row = 6, column =1)
 
 
-Attack_Button = Button(text = '¿Attack?', font = 'Impact', bd = 5, command = Attack_Target)
-Attack_Button.configure(bg='red')
+Attack_Button = Button(text = '¿LMAFO?', font = 'Impact', bd = 5, command = Attack_Target)
+Attack_Button.configure(bg='blue')
 
 Attack_Button.grid(row = 7, column =1)
 
