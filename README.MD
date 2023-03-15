@@ -180,7 +180,7 @@ GUI
 <details>
 <summary>GUI</summary>
 <br>
-
+Beta image
 ![Screenshot 2023-03-14 12 39 44 PM](https://user-images.githubusercontent.com/83523587/225075802-92997a88-d50c-41ff-8829-1c110ba88b0e.png)
 
 </details>
