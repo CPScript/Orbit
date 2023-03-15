@@ -1,4 +1,5 @@
 import time
+import subprocess
 from subprocess import call
 import os
 from os import system
@@ -118,4 +119,5 @@ if choice == "2":
     print("encrypting program files...")
     time.sleep(2)
     print("This will not harm your computer in any way.")
-    call(["python", "tool/encrypt.py"])
+    subprocess.call([r'tool\encrypt.bat'])
+
