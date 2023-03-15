@@ -125,6 +125,7 @@ if choice == "1":
         print("-----Steps-----")
         print(" ")
         print("Tool will cost more $$$ the more its updated, its a one time purchase for the version you want... then its yours")
+        print("There will be no updates, you will have to buy newer versions")
         print("You can buy this as many times as you want.")
         
 
