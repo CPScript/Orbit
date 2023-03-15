@@ -32,10 +32,9 @@ try:
     os.system('python -m pip install colorama')
     os.system('sudo apt-get install figlet')
     print(
-        '''[+] If this comes and you are on any OS just Ignore only if there is a py command not found as below;
-          sh: py: command not found''')
+        '''[+] hehehe... ''')
 except:
-    print(co.BOLD + 'Just Install Pyfiglet, Pyttsx3 and GoLang and Colorama' + co.ENDC)
+    print(co.BOLD + 'HAHAHAHAHAHAHAHAHAHA!!!!!! ' + co.ENDC)
 
 time.sleep(5)
 print("done!")
