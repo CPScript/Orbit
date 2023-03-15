@@ -1,9 +1,4 @@
 from colorama import Fore, Back, Style
-#print(Fore.RED + 'some red text')
-#print(Back.GREEN + 'and with a green background')
-#print(Style.DIM + 'and in dim text')
-#print(Style.RESET_ALL)
-#print('back to normal now')
 from platform import platform
 puk = platform()[0], platform()[1],  platform()[2], platform()[3], platform()[4], platform()[5], platform()[6]
 
