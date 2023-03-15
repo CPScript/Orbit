@@ -120,7 +120,7 @@ if choice == "1":
         print("Once gotten to, I will then send you a Bitcoin wallet link.")
         print("You will send the sum of money to the wallet")
         print("Once payments are confirmed i will send you your .zipped folder (password protected)")
-        print("I will then send you your persinal password to unlock that folder")
+        print("I will then send you your personal password to unlock that folder")
         print("All you will then have to do is extract and run the 'orbit app'")
         print("-----Steps-----")
         print(" ")
