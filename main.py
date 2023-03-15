@@ -73,7 +73,7 @@ if choice == "1":
     os.system(delet)
     print("Please choose what to use - 1 or 2")
     print("[1] - Orbit Terminal [recemended] [usable in terminal]")
-    print("[2] - Orbit GUI [Easy 2 Use] [Download]")
+    print("[2] - Orbit app [Easy 2 Use] [Download]")
     print(" ")
     print(" ")
     print("Your Choice:")
@@ -108,8 +108,26 @@ if choice == "1":
       
     if choice == "2":
         os.system(delet)
-        print("Download the most recent version of the Orbit GUI here:")
-        print("https://github.com/CPScript/Orbit/releases")
+        print("How to get the 'Orbit' application:")
+        print(" ")
+        print(" ")
+        print("The app will costs money...")
+        print("To buy the 'Orbit' app follow these steps")
+        print(" ")
+        print("-----Steps-----")
+        print("Message this user on Discord - Orbit#1654")
+        print("You will then wait untill i can get your message.")
+        print("Once gotten to, I will then send you a Bitcoin wallet link.")
+        print("You will send the sum of money to the wallet")
+        print("Once payments are confirmed i will send you your .zipped folder (password protected)")
+        print("I will then send you your persinal password to unlock that folder")
+        print("All you will then have to do is extract and run the 'orbit app'")
+        print("-----Steps-----")
+        print(" ")
+        print("Tool will cost more $$$ the more its updated, its a one time purchase for the version you want... then its yours")
+        print("You can buy this as many times as you want.")
+        
+
        
 
 
