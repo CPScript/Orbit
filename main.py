@@ -71,8 +71,8 @@ if choice == "1":
     time.sleep(1)
     os.system(delet)
     print("Please choose what to use - 1 or 2")
-    print("[1] - Terminal [recemended]")
-    print("[2] - GUI [Easy 2 Use]")
+    print("[1] - Orbit Terminal [recemended] [usable in terminal]")
+    print("[2] - Orbit GUI [Easy 2 Use] [Download]")
     print(" ")
     print(" ")
     print("Your Choice:")
@@ -107,27 +107,9 @@ if choice == "1":
       
     if choice == "2":
         os.system(delet)
-        print("Loading.")
-        time.sleep(1)
-        os.system(delet)
-        print("Loading..")
-        time.sleep(1)
-        os.system(delet)
-        print("Loading...")
-        time.sleep(1)
-        os.system(delet)
-        print("Loading.")
-        time.sleep(1)
-        os.system(delet)
-        print("Loading..")
-        time.sleep(1)
-        os.system(delet)
-        print("Loading...")
-        time.sleep(1)
-        os.system(delet)
-        print("Done!")
-        time.sleep(5)
-        call(["python", "tool/GUI.py"])
+        print("Download the most recent version of the Orbit GUI here:")
+        print("https://github.com/CPScript/Orbit/releases")
+       
 
 
 if choice == "2":
