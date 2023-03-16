@@ -112,7 +112,7 @@ if choice == "1":
         print(" ")
         print(" ")
         print("The app will costs money...")
-        print("To buy the 'Orbit' app follow these steps")
+        print("The current way to buy 'Orbit' Is below, im currently making a website for purchases... sry")
         print(" ")
         print("-----Steps-----")
         print("Message this user on Discord - Orbit#1654")
