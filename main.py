@@ -112,7 +112,7 @@ if choice == "1":
         print(" ")
         print(" ")
         print("The app will costs money...")
-        print("The current way to buy 'Orbit' Is below, im currently making a website for purchases... sry")
+        print("The current way to buy 'Orbit' Is below.")
         print(" ")
         print("-----Steps-----")
         print("purchase it here>> https://giveme1taa.wixsite.com/orbit")
