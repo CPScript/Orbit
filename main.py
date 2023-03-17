@@ -71,16 +71,16 @@ if choice == "1":
     print("Done!")
     time.sleep(1)
     os.system(delet)
-    print("Please choose what to use - 1 or 2")
-    print("[1] - Orbit Terminal [Recemended] [Not the most reliable] [Free]")
-    print("[2] - Orbit app [Easy 2 Use] [Almost always accurate] [Payed 4]")
+    print("Please choose what to use - 3 or 4")
+    print("[3] - Orbit Terminal [Recemended] [Not the most reliable] [Free]")
+    print("[4] - Orbit app [Easy 2 Use] [Almost always accurate] [Payed 4]")
     print(" ")
     print(" ")
     print("Your Choice:")
     choice = input("")
     
     
-    if choice == "1":
+    if choice == "3":
         os.system(delet)
         print("Loading.")
         time.sleep(1)
@@ -106,7 +106,7 @@ if choice == "1":
 
       
       
-    if choice == "2":
+    if choice == "4":
         os.system(delet)
         print("How to get the 'Orbit' application:")
         print(" ")
