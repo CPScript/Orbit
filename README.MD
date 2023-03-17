@@ -1,4 +1,4 @@
-##### i kinda put my heart and soul into this... pls star, and donate to me via btc:
+##### i kinda put my heart and soul into this... pls star, and bui the app
 <div align=center>
 
 # ORBIT DDoS Tool
@@ -6,7 +6,7 @@
 ![satellite-png-30](https://user-images.githubusercontent.com/83523587/224998588-fb8d502f-f9c1-4763-af2f-51ffbec2cf16.png)
 
 
-~Orbit~ One of the most EASIEST & FASTEST DDoS tool, able to take down Small websites, IPs, and other Random shit...
+~Orbit~ One of the most EASIEST & FASTEST DDoS tool, ment to be used for ntwork secruity testing.
   
  <details>
 <summary>More Info</summary>
@@ -20,7 +20,7 @@ GUI Version> BETA 0.6
    
    
    
-The user CPScript is not responsible for your DUMBASS actions, and has no liability for what you fucking do with this shit.
+The user CPScript is not responsible for your actions, and has no liability for what you do with this program.
 Made for educatinal purposes only 
 
 </details>
@@ -74,7 +74,7 @@ Download for your OS form Golang.org/dl/
 ```
 
   <details>
-  <summary>  Other Instalations for a diffrent OS</summary>
+  <summary>Other Instalations for a diffrent OS</summary>
   <br>
   [+] MacOS
 
