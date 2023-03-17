@@ -6,7 +6,7 @@
 ![satellite-png-30](https://user-images.githubusercontent.com/83523587/224998588-fb8d502f-f9c1-4763-af2f-51ffbec2cf16.png)
 
 
-~Orbit~ One of the most EASIEST & FASTEST DDoS tool, ment to be used for ntwork secruity testing.
+~Orbit~ One of the most EASIEST & FASTEST DDoS tool, ment to be used for network secruity testing.
   
  <details>
 <summary>More Info</summary>
