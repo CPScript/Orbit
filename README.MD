@@ -162,7 +162,8 @@ Terminal
 <summary>Terminal</summary>
 <br>
 
-![Screenshot 2023-03-14 12 42 23 PM](https://user-images.githubusercontent.com/83523587/225076412-49e94e15-dea2-495b-ac1d-b868589d5aa4.png)
+![Screenshot 2023-03-17 11 44 18 AM](https://user-images.githubusercontent.com/83523587/225952960-775dd8bc-b595-4e33-8539-5009717a2510.png)
+
 
 
 </details>
