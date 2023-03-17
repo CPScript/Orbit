@@ -11,14 +11,10 @@
  <details>
 <summary>More Info</summary>
 <br>
-
-Plans for next update: Update GUI to look better
    
-Terminal Version> 1.3
+Terminal - Version 1.7
    
-GUI Version> BETA 0.6   
-   
-   
+App -  Version 2.5   
    
 The user CPScript is not responsible for your actions, and has no liability for what you do with this program.
 Made for educatinal purposes only 
