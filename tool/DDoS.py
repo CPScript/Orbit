@@ -77,6 +77,8 @@ print("""
                 ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝                                                   
                 Networking tool                                                                           
 """)
+# tool by CPS
+# SOld on there website
 
 time.sleep(1)
 print('Your OS:'+ Fore.RED + str(platform.system())+Fore.GREEN)
