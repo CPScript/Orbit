@@ -1,12 +1,6 @@
 package main
 
-/*
- HULK DoS tool on <strike>steroids</strike> goroutines. Just ported from Python with some improvements.
- Original Python utility by Barry Shteiman http://www.sectorix.com/2012/05/17/hulk-web-server-dos-tool/
 
- This go program licensed under GPLv3.
- Copyright Alexander I.Grafov <grafov@gmail.com>
-*/
 
 import (
 	"flag"
@@ -25,7 +19,7 @@ import (
 
 const __version__  = "1.0.1"
 
-// const acceptCharset = "windows-1251,utf-8;q=0.7,*;q=0.7" // use it for runet
+
 const acceptCharset = "ISO-8859-1,utf-8;q=0.7,*;q=0.7"
 
 const (
@@ -35,7 +29,7 @@ const (
 	targetComplete
 )
 
-// global params
+
 var (
 	safe            bool     = false
 	headersReferers []string = []string{
