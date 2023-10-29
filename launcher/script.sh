@@ -1,10 +1,18 @@
 #!/bin/bash
 clear
-# Function to display the menu
-show_menu() {
-    clear
-    echo "*******************************"
-    echo """    ,-:``-`-``'-, 
+#COLOUR
+red='\e[1;31m'
+yellow='\e[0;33m'
+Blue='\e[1;34m'
+Reset='\e[0;0m'
+title="Orbit Attacking tool"
+echo -e '\033]2;'$title'\007'
+echo -e '\e[0m\e[3;36m-------------------------------
+\e[3;31m Orbit Online DoS tool \e[3;36m
+
+# logo
+echo "
+    ,-:``-`-``'-, 
   .'-:_,:  ':-:_,'.
  /:   '/    ,  _`.-\
 | '`. (`     /` ` \`|
@@ -13,39 +21,37 @@ show_menu() {
  \     | .'     `-'/
   `.   ;/        .'
     `'-.--_-_. -`
-    """
-    echo "*******************************"
+"
+
+# options
+while true; do
+    echo "Menu Options:"
     echo "1. Option 1"
     echo "2. Option 2"
     echo "3. Option 3"
     echo "4. Exit"
-    echo "*******************************"
-}
+    echo -e $Blue" ┌─["$red"Easy$Blue]──[$red~$Blue]─["$yellow"Selection$Blue]"
+    read -p      " └─────► " n
 
-# Main script logic
-while true; do
-    show_menu
-    read -p "Enter your choice: " choice
     case $choice in
         1)
             echo "You selected Option 1"
-            # Add your code for Option 1 here
+            # Add your actions for Option 1 here
             ;;
         2)
             echo "You selected Option 2"
-            # Add your code for Option 2 here
+            # Add your actions for Option 2 here
             ;;
         3)
             echo "You selected Option 3"
-            # Add your code for Option 3 here
+            # Add your actions for Option 3 here
             ;;
         4)
-            echo "Exiting. Goodbye!"
+            echo "Exiting..."
             exit 0
             ;;
         *)
             echo "Invalid choice. Please try again."
             ;;
     esac
-    read -p "Press Enter to continue..."
 done
