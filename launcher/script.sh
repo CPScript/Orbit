@@ -30,15 +30,16 @@ do
     while true; do
 
         echo " "
-        echo "[1] > Mars        | description"
-        echo "[2] > Jupiter     | description"
-        echo "[3] > Saturn      | description"
-        echo "[4] > Uranus      | description"
-        echo "[5] > Rocket      | description"
-        echo "[6] > Missile     | description"
-        echo "[7] > Satellite   | description"
-        echo "[8] > Mothership  | description"
-        echo "[i] > Information | description"
+        echo "[1] > Mars        | IP lookup"
+        echo "[2] > Jupiter     | IP:Port pinger"
+        echo "[3] > Saturn      | Site sniffer (basic)"
+        echo "[4] > Uranus      | (Http) Site sniffer (advanced)"
+        echo "[5] > Rocket      | UDP DoS attack"
+        echo "[6] > Missile     | POD DoS attack"
+        echo "[7] > Spaceship   | Slowloris attack"
+        echo "[8] > Satellite   | Botnet Attack"
+        echo "[9] > Mothership  | Multi DDoS tool"
+        echo "[i] > Information | About Orbit"
         echo " " 
         echo "[*] > Exit script | Ctrl+C"
 
@@ -47,47 +48,52 @@ do
 
         if [ "$x" == "1" ]; then
             clear
-            cd /path/mars/
+            cd path/mars/
             ./menu.sh
             
         elif [ "$x" == "2" ]; then
             clear
-            cd /path/jupiter/
+            cd /path/jupiter
             ./menu.sh
             
         elif [ "$x" == "3" ]; then
             clear
-            cd /path/saturn/
+            cd /path/saturn
             ./menu.sh
             
         elif [ "$x" == "4" ]; then
             clear
-            cd /path/uranus/
+            cd /path/uranus
             ./menu.sh
             
         elif [ "$x" == "5" ]; then
             clear
-            cd /path/rocket/
+            cd /path/rocket
             ./menu.sh
             
         elif [ "$x" == "6" ]; then
             clear
-            cd /path/missile/
+            cd /path/missile
             ./menu.sh
             
         elif [ "$x" == "7" ]; then
             clear
-            cd /path/satellite/
+            cd /path/spaceship
             ./menu.sh
-            
+
         elif [ "$x" == "8" ]; then
+        clear
+        cd /path/satellite
+        ./menu.sh
+            
+        elif [ "$x" == "9" ]; then
             clear
-            cd /path/mothership/
+            cd /path/mothership
             ./menu.sh
             
         elif [ "$x" == "i" ]; then
             clear
-            cd /path/
+            cd /path
             ./info.sh
             
         else
