@@ -1,9 +1,0 @@
-pyttsx3
-figlet
-pyfiglet
-colorama
-os
-socket
-wheel
-cryptography
-Fernet

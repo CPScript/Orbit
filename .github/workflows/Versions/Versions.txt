@@ -1,2 +1,0 @@
-GUI - 2.3
-Terminal - 1.7
