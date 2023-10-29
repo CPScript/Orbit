@@ -1,3 +1,6 @@
+import os
+import sys
+
 from socket import socket, AF_INET, SOCK_STREAM
 from traceback import print_exc
 from socks import setdefaultproxy, socksocket, PROXY_TYPE_SOCKS5, PROXY_TYPE_SOCKS4
@@ -6,6 +9,133 @@ from random import choice, randint
 from requests import get
 from re import split, match
 from concurrent.futures import ThreadPoolExecutor
+
+print("""
+            |  |
+            |  |
+            \  /
+             \/
+
+
+""")
+print("""     
+           \ == /
+            |  |
+            |  |
+            \  /
+             \/
+
+
+""")
+print("""
+           |\**/|      
+           \ == /
+            |  |
+            |  |
+            \  /
+             \/
+
+
+""")
+print("""
+
+           |\**/|      
+           \ == /
+            |  |
+            |  |
+            \  /
+             \/
+
+
+""")
+print("""
+
+
+           |\**/|      
+           \ == /
+            |  |
+            |  |
+            \  /
+             \/
+
+
+""")
+print("""
+
+
+
+           |\**/|      
+           \ == /
+            |  |
+            |  |
+            \  /
+             \/
+
+
+""")
+print("""
+
+
+
+           |\**/|      
+           \ == /
+            |  |
+            |  |
+            \  /
+             \/
+
+_______________________________
+""")
+print("""
+
+
+
+           |\**/|      
+           \ == /
+            |  |
+            |  |
+            \  /
+             \/
+_______________________________
+""")
+print("""
+
+
+
+           |\**/|      
+           \ == /
+            |  |
+            |  |
+            \  /
+_____________\/_______________
+""")
+print("""
+
+         _ ._  _ , _ ._
+      (_ ' ( `  )_  .__)
+    ( (  (    )   `)  ) _)
+   (__ (_   (_ . _) _) ,__)
+        `~~`\ ' . /`~~`
+             ;   ;
+             /   \
+____________/_ __ \____________
+______________________________
+""")
+print("""
+
+       _.-^^---....,,--       
+   _--                  --_  
+  <                        >)
+  |                         | 
+   \._                   _./  
+      ```--. . , ; .--'''       
+            | |   |             
+         .-=||  | |=-.   
+         `-=#$%&%$#=-'   
+            | ;  :|     
+________.,-#%&$@%#&#~,.________
+_______________________________
+""")
 
 red = "\033[1;91m"
 green = "\033[1;92m"
@@ -16,15 +146,24 @@ end = "\033[1;92m"
 design = f"{orange}█████{white}█████{green}█████{end}"
 
 print(f'''
-{green}
-    88""Yb 88""Yb 888888 8888b.     db    888888  dP"Yb  88""Yb 
-    88__dP 88__dP 88__    8I  Yb   dPYb     88   dP   Yb 88__dP 
-    88"""  88"Yb  88""    8I  dY  dP__Yb    88   Yb   dP 88"Yb  
-    88     88  Yb 888888 8888Y"  dP""""Yb   88    YbodP  88  Yb 
+{white}
+       _.-^^---....,,--       
+   _--                  --_  
+  <                        >)
+  |                         | 
+   \._                   _./  
+      ```--. . , ; .--'''       
+            | |   |             
+         .-=||  | |=-.   
+         `-=#$%&%$#=-'   
+            | ;  :|     
+________.,-#%&$@%#&#~,.________
+_______________________________
+___________ UDP DDoS __________
+
 
     {design * 4}
 
-							C0d3d by Zaeem20
 	''')  # The graphics are there
 
 
@@ -38,7 +177,7 @@ socks5_proxy = get(
     "https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt").text.split("\n")
 
 
-def Main_Menu():  # in This Function Septum The Url To Make It Usable For The FutureSetting Of HttpRequests
+def Main_Menu(): 
     global url
     global url2
     global urlport
@@ -111,7 +250,7 @@ def Main_Menu():  # in This Function Septum The Url To Make It Usable For The Fu
                             anonymity = socks5_proxy
                             break
                         else:
-                            print(f"{red}You mistyped, try again.")
+                            print(f"{red}You mistype, try again.")
                     elif type == 1:
                         proxy_mode = True
                         anonymity = http_proxies
@@ -335,5 +474,4 @@ class RequestDefaultHTTP: # The Multithreading class
 
 
 if __name__ == '__main__':
-# This starts the first function of the program, which in turn starts another one, then another, up to the attack.
     Main_Menu()
