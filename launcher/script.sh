@@ -36,7 +36,7 @@ do
         echo "[4] > Uranus      | (Http) Site sniffer (advanced)"
         echo "[5] > Rocket      | UDP DoS attack"
         echo "[6] > Missile     | POD DoS attack"
-        echo "[7] > Spaceship   | Slowloris attack"
+        echo "[7] > Spaceship   | Slowloris attack | http(80)"
         echo "[8] > Satellite   | Botnet Attack"
         echo "[9] > Mothership  | Multi DDoS tool"
         echo "[i] > Information | About Orbit"
@@ -48,7 +48,7 @@ do
 
         if [ "$x" == "1" ]; then
             clear
-            cd path/mars/
+            cd /path/mars
             ./menu.sh
             
         elif [ "$x" == "2" ]; then
@@ -69,32 +69,32 @@ do
         elif [ "$x" == "5" ]; then
             clear
             cd /path/rocket
-            ./menu.sh
+            python script.py
             
         elif [ "$x" == "6" ]; then
             clear
             cd /path/missile
-            ./menu.sh
+            python script.py
             
         elif [ "$x" == "7" ]; then
             clear
             cd /path/spaceship
-            ./menu.sh
+            python3 script.py
 
         elif [ "$x" == "8" ]; then
-        clear
-        cd /path/satellite
-        ./menu.sh
+            clear
+            cd /path/satellite
+            python script.py
             
         elif [ "$x" == "9" ]; then
             clear
             cd /path/mothership
-            ./menu.sh
+            python script.py
             
         elif [ "$x" == "i" ]; then
             clear
             cd /path
-            ./info.sh
+            python info.py
             
         else
             clear
