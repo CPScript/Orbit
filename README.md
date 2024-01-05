@@ -1,5 +1,3 @@
-# A
-## VERY
-### BAD
-#### DDOS TOOL MADE UP OF DIFFERANT DDOS SCRIPTS...
-##### Some might not work correctly
+### Currently updating, (This is going to take a long time as im always doing other things)
+
+when this is done, it should be full of ddos tools i find, and ones i make
