@@ -1,4 +1,3 @@
-##### i kinda put my heart and soul into this... pls star, and buy the app
 <div align=center>
 
 # ORBIT DDoS Tool
