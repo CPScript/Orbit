@@ -108,19 +108,8 @@ if choice == "1":
       
     if choice == "4":
         os.system(delet)
-        print("How to get the 'Orbit' application:")
-        print(" ")
-        print(" ")
-        print("The app will costs money...")
-        print("The current way to buy 'Orbit' Is below.")
-        print(" ")
-        print("-----Steps-----")
-        print("purchase it here>> https://giveme1taa.wixsite.com/orbit")
-        print("-----Steps-----")
-        print(" ")
-        print("Tool will cost more $$$ the more its updated, its a one time purchase for the version you want... then its yours")
-        print("There will be no updates, you will have to buy newer versions")
-        print("You can buy this as many times as you want.")
+        print("exiting!")
+        exit
         
 
        
